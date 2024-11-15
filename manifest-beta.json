@@ -1,0 +1,11 @@
+{
+	"id": "fui",
+	"name": "Find unused images",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Find and list images in your Obsidian vault that are not being used.",
+	"author": "Ben Floyd",
+	"authorUrl": "https://b.floy.dev",
+	"fundingUrl": "https://paypal.me/bfloydd",
+	"isDesktopOnly": false
+}
